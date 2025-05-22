@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|c:\\users\\steve\\onedrive\\desktop\\github\\c#\\selfhosteddesktop\\selfhosteddesktop\\apiserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|solutionrelative:selfhosteddesktop\\apiserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|c:\\users\\steve\\onedrive\\desktop\\github\\c#\\selfhosteddesktop\\selfhosteddesktop\\selfhosteddesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|solutionrelative:selfhosteddesktop\\selfhosteddesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|c:\\users\\steve\\onedrive\\desktop\\github\\c#\\selfhosteddesktop\\selfhosteddesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|solutionrelative:selfhosteddesktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|c:\\users\\steve\\onedrive\\desktop\\github\\c#\\selfhosteddesktop\\selfhosteddesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5B17778-C695-4CFA-9654-FDAAC36D3154}|SelfHostedDesktop\\SelfHostedDesktop.csproj|solutionrelative:selfhosteddesktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelfHostedDesktop",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\SelfHostedDesktop.csproj",
+              "RelativeDocumentMoniker": "SelfHostedDesktop\\SelfHostedDesktop.csproj",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\SelfHostedDesktop.csproj",
+              "RelativeToolTip": "SelfHostedDesktop\\SelfHostedDesktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T16:53:01.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiServer.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\ApiServer.cs",
+              "RelativeDocumentMoniker": "SelfHostedDesktop\\ApiServer.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\ApiServer.cs",
+              "RelativeToolTip": "SelfHostedDesktop\\ApiServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:49:25.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SelfHostedDesktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\MainWindow.xaml",
+              "RelativeToolTip": "SelfHostedDesktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T16:49:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SelfHostedDesktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\GitHub\\C#\\SelfHostedDesktop\\SelfHostedDesktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SelfHostedDesktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:49:13.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
